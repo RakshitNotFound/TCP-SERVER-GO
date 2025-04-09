@@ -79,14 +79,6 @@ HELLO, WORLD
 
 ---
 
-## ✨ Future Improvements
-
-- Add proper **HTTP headers** like `Content-Type`.
-- Support **persistent connections** (keep-alive).
-- Add **logging** with timestamps and client IPs.
-- Create a more complete **HTTP server**.
-
----
 
 ## 📜 License
 
